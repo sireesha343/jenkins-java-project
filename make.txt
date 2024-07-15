@@ -1,5 +1,0 @@
-build-project-a:
-echo "Building project A"
-
-build-project-b:
-echo "Building project B"
